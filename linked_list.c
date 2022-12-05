@@ -184,7 +184,7 @@ linked_list linked_list_remove(linked_list link) {
   }
   free(link);
   return NULL;
-}
+}  
 
 
 void linked_test(linked_list* link) {
